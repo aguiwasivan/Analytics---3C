@@ -1,7 +1,21 @@
-# ELEC303 Data Analytics 
+# ELEC303 Data Analytics
 
-### [Activity 1 - Palmer Penguin]
-### [Activity 2 - UK Accidents]
-### [Midterms Exam - UK Accidents]
+This repository contains assignments, projects, and the midterm exam for **ELEC303 Data Analytics**.
 
+## Table of Contents
+1. [Activity 1 - Palmer Penguin](#activity-1---palmer-penguin)  
+2. [Project 2 - UK Accidents](#project-2---uk-accidents)  
+3. [Midterms Exam](#midterms-exam)
+
+## Activity 1 - Palmer Penguin
+Analysis and visualizations using the **Palmer Penguins dataset**.  
+📄 Notebook: [ACTIVITY 1](https://github.com/aguiwasivan/Analytics---3C/blob/main/AGUIWAS/ACTIVITY%201.ipynb)
+
+## Project 2 - UK Accidents
+Exploratory data analysis of **UK road accidents data**, including trends and insights.  
+📄 Notebook: [PROJECT 2](https://github.com/aguiwasivan/Analytics---3C/blob/main/AGUIWAS/PROJECT_2.ipynb)
+
+## Midterms Exam
+Contains exercises and solutions for the **midterm exam** of ELEC303.  
+📄 Notebook: [MIDTERM](https://github.com/aguiwasivan/Analytics---3C/blob/main/AGUIWAS/MIDTERM.ipynb)
 
