@@ -8,14 +8,14 @@ This repository contains assignments, projects, and the midterm exam for **ELEC3
 3. [Midterms Exam](#midterms-exam)
 
 ## Activity 1 - Palmer Penguin
-Analysis and visualizations using the **Palmer Penguins dataset**.  
+Analysis and visualizations using the **PALMERS PENGUIN**.  
 📄 Notebook: [ACTIVITY 1](https://github.com/aguiwasivan/Analytics---3C/blob/main/AGUIWAS/ACTIVITY%201.ipynb)
 
 ## Project 2 - UK Accidents
-Exploratory data analysis of **UK road accidents data**, including trends and insights.  
+Exploratory data analysis of **UK ROAD ACCIDENT DATA**, including trends and insights.  
 📄 Notebook: [PROJECT 2](https://github.com/aguiwasivan/Analytics---3C/blob/main/AGUIWAS/PROJECT_2.ipynb)
 
 ## Midterms Exam
-Contains exercises and solutions for the **midterm exam** of ELEC303.  
+Contains exercises and solutions for the **MDTERM EXAM** of ELEC303.  
 📄 Notebook: [MIDTERM](https://github.com/aguiwasivan/Analytics---3C/blob/main/AGUIWAS/MIDTERM.ipynb)
 
