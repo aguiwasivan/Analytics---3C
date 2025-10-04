@@ -1,9 +1,7 @@
-# ANALYTICS
+# ELEC303 Data Analytics 
 
-This repository contains Jupyter Notebook(s) for data analytics projects.  
-It demonstrates how to clean, analyze, and visualize data using Python.
+### [Activity 1 - Palmer Penguin]
+### [Activity 2 - UK Accidents]
+### [Midterms Exam - UK Accidents]
 
-
-
-[https://github.com/aguiwasivan/ANALYTICS](https://github.com/aguiwasivan/ANALYTICS)
 
