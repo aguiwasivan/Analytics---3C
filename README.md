@@ -7,6 +7,7 @@ This repository contains assignments, projects, and the midterm exam for **ELEC3
 2. [Project 2 - UK Accidents](#project-2---uk-accidents)  
 3. [Midterm Exam](#midterm-exam)  
 4. [Activity 3](#activity-3)
+5. [Assignment - Salary Prediction](#assignment---salary-prediction)
 
 ## Activity 1 - Palmer Penguin
 📄 Notebook: [ACTIVITY 1](https://github.com/aguiwasivan/Analytics---3C/blob/main/AGUIWAS/ACTIVITY%201.ipynb)
@@ -19,5 +20,8 @@ This repository contains assignments, projects, and the midterm exam for **ELEC3
 
 ## Activity 3
 📄 Notebook: [ACTIVITY 3](https://github.com/aguiwasivan/Analytics---3C/blob/main/AGUIWAS/ACT%203.ipynb)
+
+## Assignment - Salary Prediction
+📄 Notebook: [Assignment](https://github.com/aguiwasivan/Analytics---3C/blob/main/AGUIWAS/AGUIWAS_IVANRAYMOND_SalaryPrediction.ipynb)
 
 ---
