@@ -3,13 +3,20 @@
 This repository contains assignments, projects, and the midterm exam for **ELEC303 Data Analytics**.
 
 ## 📚 Table of Contents
+
+### 🧮 Midterm
 1. [Activity 1 - Palmer Penguin](#activity-1---palmer-penguin)  
 2. [Project 2 - UK Accidents](#project-2---uk-accidents)  
-3. [Midterm Exam](#midterm-exam)  
+3. [Midterm Exam](#midterm-exam)
+
+### 🎯 Final Activities
 4. [Activity 3 - Dengue Cases](#activity-3---dengue-cases)  
 5. [Assignment - Salary Prediction](#assignment---salary-prediction)  
 6. [Titanic Survivability - Machine Learning](#titanic-survivability---machine-learning)  
-7. [Report - Data Analytics Summary](#report---data-analytics-summary)
+7. [Housing Price Prediction](#housing-price-prediction)
+
+### 📊 Power BI Report
+8. [Report - Data Analytics Summary](#report---data-analytics-summary)
 
 ---
 
@@ -39,7 +46,7 @@ Data analysis on **dengue cases**, exploring trends and correlations between cas
 
 ## Assignment - Salary Prediction
 Predicting **2024 Data Science Salaries** using Linear Regression. Includes data preprocessing, visualization, and model evaluation.  
-📄 Notebook: [ASSIGNMENT - SALARY PREDICTION](https://github.com/aguiwasivan/Analytics---3C/blob/main/AGUIWAS/AGUIWAS_IVANRAYMOND_SalaryPrediction.ipynb)
+📄 Notebook: [SALARY PREDICTION](https://github.com/aguiwasivan/Analytics---3C/blob/main/AGUIWAS/AGUIWAS_IVANRAYMOND_SalaryPrediction.ipynb)
 
 ---
 
@@ -49,8 +56,15 @@ Predicting **Titanic passenger survival** using machine learning models.
 
 ---
 
-## 📝 Report - Data Analytics Summary  
+## Housing Price Prediction
+Predicting **housing prices** using machine learning techniques.  
+📄 Notebook: [HOUSING TRAIN](https://github.com/aguiwasivan/Analytics---3C/blob/main/AGUIWAS/HOUSING_TRAIN.ipynb)
+
+---
+
+## Report - Data Analytics Summary
 📄 PDF: [DATA ANALYTICS REPORT](https://github.com/aguiwasivan/Analytics---3C/blob/main/AGUIWAS/AGUIWAS_IVANRAYMOND.pdf)
 
 ---
+
 
