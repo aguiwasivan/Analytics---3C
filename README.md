@@ -13,7 +13,7 @@ This repository contains assignments, projects, and the midterm exam for **ELEC3
 
 ---
 
-## 🐧 Activity 1 - Palmer Penguin
+## Activity 1 - Palmer Penguin
 Analysis and visualization of the **Palmer Penguins dataset** using Python.  
 📄 Notebook: [ACTIVITY 1](https://github.com/aguiwasivan/Analytics---3C/blob/main/AGUIWAS/ACTIVITY%201.ipynb)
 
@@ -54,5 +54,3 @@ Predicting **Titanic passenger survival** using machine learning models.
 
 ---
 
-## 👨‍💻 Author
-**Carl Aguiwas**
