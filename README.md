@@ -10,7 +10,7 @@ This repository contains assignments, projects, and the midterm exam for **ELEC3
 3. [Midterm Exam](#midterm-exam)  
 
 ### 🎯 Final Activities  
-4. [Activity 3 - Dengue Cases](#activity-3---dengue-cases)  
+4. [Activity 4 - Dengue Cases](#activity-3---dengue-cases)  
 5. [Dengue Analysis (Dengue.ipynb)](#dengue-analysis)  
 6. [Assignment - Salary Prediction](#assignment---salary-prediction)  
 7. [Titanic Survivability - Machine Learning](#titanic-survivability---machine‑learning)  
